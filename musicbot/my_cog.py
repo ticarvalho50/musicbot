@@ -7,7 +7,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-API_KEY = 'RGAPI-927dd190-161b-4e0d-99bb-c33bc9897309'
+API_KEY = 'sua key da api'
 
 
 class MyCog(commands.Cog):
