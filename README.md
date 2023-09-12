@@ -107,41 +107,41 @@ Test your bot on the Discord server and make adjustments as needed to ensure it 
 
 Here are the basic commands and how to use them:
 
-    !play [search_query]: This command plays a song from YouTube. You can use it like this:
+!play [search_query]: This command plays a song from YouTube. You can use it like this:
 
-    diff
+diff
 
-!play despacito
+    !play despacito
 
 !showqueue: This command displays the current queue of songs.
 
 diff
 
-!showqueue
+    !showqueue
 
 !pause: Pause the currently playing song.
 
 css
 
-!pause
+    !pause
 
 !resume: Resume a paused song.
 
 diff
 
-!resume
+    !resume
 
 !clearqueue: Clear the entire song queue.
 
 diff
 
-!clearqueue
+    !clearqueue
 
 !skip: Skip the currently playing song and play the next song in the queue.
 
 diff
 
-!skip
+    !skip
 
 !para: Stop playback entirely.
 
@@ -153,41 +153,41 @@ Portuguese (Português):
 
 O seu bot de música parece estar construído usando o Discord.py e interage com o YouTube e o Spotify. Aqui estão os comandos básicos e como usá-los:
 
-    !play [search_query]: Este comando reproduz uma música do YouTube. Você pode usá-lo assim:
+!play [search_query]: Este comando reproduz uma música do YouTube. Você pode usá-lo assim:
 
     diff
 
-!play despacito
+    !play despacito
 
 !showqueue: Este comando exibe a fila de músicas atual.
 
 diff
 
-!showqueue
+    !showqueue
 
 !pause: Pausa a música que está sendo reproduzida no momento.
 
 css
 
-!pause
+    !pause
 
 !resume: Resume uma música que estava pausada.
 
 diff
 
-!resume
+    !resume
 
 !clearqueue: Limpa toda a fila de músicas.
 
 diff
 
-!clearqueue
+    !clearqueue
 
 !skip: Pula a música que está sendo reproduzida no momento e reproduz a próxima música da fila.
 
 diff
 
-!skip
+    !skip
 
 !para: Para a reprodução completamente.
 
