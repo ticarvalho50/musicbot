@@ -25,7 +25,7 @@ intents.presences = False
 intents.message_content = True
 bot = commands.Bot(command_prefix="!", intents=intents)
 
-token = "seu token"
+token = "seu token/your token"
 
 sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id="your_client_id",
                                                            client_secret="your_client_secret"))
