@@ -53,8 +53,8 @@ Passo 12: Teste e ajuste
 
 Teste seu bot no servidor Discord e faça ajustes conforme necessário para garantir que ele funcione conforme o esperado.
 
-###############################################################################################################################################################################################
-ENG
+
+##ENG##
 
 Step 1: Create a Discord Account
 
